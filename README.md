@@ -1,5 +1,5 @@
 # Rick and Morty-Space-Invaders
-ein Fan Based Minispiel inspiriert von Rick &amp; Morty ( made with Python &amp; pygame )
+ein fanbasiertes Minispiel inspiriert von Rick &amp; Morty ( made with Python &amp; pygame )
 
 Rick & Morty: Space Invaders
 
