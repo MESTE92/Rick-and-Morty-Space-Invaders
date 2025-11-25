@@ -5,4 +5,4 @@ Rick & Morty: Space Invaders
 
 A fan-based game made with Python and Pygame.
 
-The release of version 1.0 is planned for November 2025.
+The release of version 1.0 is planned for December 2025.
